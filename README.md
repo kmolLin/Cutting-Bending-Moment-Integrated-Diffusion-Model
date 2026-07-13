@@ -8,7 +8,7 @@
 >
 > This repository contains the official PyTorch implementation for the paper **"Bending Moment Synthesis by Integrating Cutting Mechanics with Diffusion Model for Tool Wear Prediction"**.
 > 
-> ⚠️ **The manuscript is currently under peer review.** To comply with journal policies and ensure the integrity of the review process, the complete source code, pre-trained weights, and sample datasets are temporarily withheld. **All materials will be made fully open-source and publicly available immediately upon the acceptance of the paper.** ---
+> ⚠️ **The manuscript is currently under peer review.** To comply with journal policies and ensure the integrity of the review process, the complete source code, pre-trained weights, and sample datasets are temporarily withheld. **All materials will be made open-source and publicly available immediately upon the acceptance of the paper.** ---
 
 ## 📖 Overview
 
