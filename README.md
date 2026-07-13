@@ -14,7 +14,7 @@
 
 In smart manufacturing, accurate tool wear prediction is often limited by data deficiency and cross-condition adaptation. Conventional data-driven generative models (e.g., GANs) synthesize high-frequency dynamic signals without physical guidance, which may cause frequency shifts and negative transfer in downstream tasks. 
 
-To address this issue, we propose a **Physics-Guided Diffusion Model (PGDM)** that integrates a mechanistic cutting bending moment model with a Denoising Diffusion Probabilistic Model (DDPM).
+To address this issue, we propose a **Physics-Guided Diffusion Model ** that integrates a mechanistic cutting bending moment model with a Denoising Diffusion Probabilistic Model (DDPM).
 
 ### ✨ Key Contributions:
 - **Mechanics-Integrated Architecture**: Uses ideal cutting bending moments as a deterministic structural prior at the input layer.
